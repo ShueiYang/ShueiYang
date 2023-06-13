@@ -11,7 +11,7 @@ Welcome to my profile ! but i don't know what to put in here...
 
 ## About Me  ヾ(⌐■_■)ノ♪
 
-Hey there, I'm Kim from France, an Ex Sales specialist interested in building both frontend and backend web apps, so I'm very excited taking up the challenge as a Software engineer and Open-source contributor.
+Hey there👋 I'm Kim from France, an Ex Sales specialist interested in building both frontend and backend web apps, so I'm very excited taking up the challenge as a Software engineer and Open-source contributor.
 
 
 <br />
