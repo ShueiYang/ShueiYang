@@ -1,6 +1,6 @@
 ## Hello World !  🌏
 
-Welcome to my profile ! but i don't know what to put in here...
+Welcome to my profile ! but i don't know what to put in here... but I an currently working on my portfolio ^^
 
 <br />
 <br />
