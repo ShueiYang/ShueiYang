@@ -1,6 +1,6 @@
 ## Hello World !  🌏
 
-Welcome to my profile ! but i don't know what to put in here... but I an currently working on my portfolio ^^
+Welcome to my profile ! I don't know what to put in here... but I an currently working on my portfolio ^^
 
 <br />
 <br />
@@ -13,8 +13,8 @@ Welcome to my profile ! but i don't know what to put in here... but I an current
 
 Hey there👋 I'm Kim from France, an Ex Sales specialist interested in building both frontend and backend web apps, so I'm very excited taking up the challenge as a Software engineer and Open-source contributor.
 
+See my [Homepage](https://shueiyang.vercel.app)
 
-<br />
 <br />
 
 ## Technologies I'am learning 🖥️
