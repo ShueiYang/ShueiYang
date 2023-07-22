@@ -4,7 +4,7 @@ Welcome to my profile ! I don't know what to put in here... but I am currently w
 
 <br />
 <br />
-<br />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats-shueiyang.vercel.app/api?username=ShueiYang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,3 +49,10 @@ See my [Homepage](https://shueiyang.vercel.app)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+
+<br />
+
+---
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
