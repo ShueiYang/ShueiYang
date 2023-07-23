@@ -54,7 +54,7 @@ See my [Homepage](https://shueiyang.vercel.app)
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42991](https://github.com/vercel/next.js/issues/42991#issuecomment-1624478529) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#42991](https://github.com/vercel/next.js/issues/42991#issuecomment-1623924133) in [vercel/next.js](https://github.com/vercel/next.js)
-3. ❗ Opened issue [#946](https://github.com/expressjs/session/issues/946) in [expressjs/session](https://github.com/expressjs/session)
+1. 🎉 Merged PR [#1](https://github.com/ShueiYang/github-readme-stats/pull/1) in [ShueiYang/github-readme-stats](https://github.com/ShueiYang/github-readme-stats)
+2. 🗣 Commented on [#42991](https://github.com/vercel/next.js/issues/42991#issuecomment-1624478529) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#42991](https://github.com/vercel/next.js/issues/42991#issuecomment-1623924133) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
