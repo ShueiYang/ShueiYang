@@ -6,7 +6,7 @@ Welcome to my profile ! I don't know what to put in here... but I am currently w
 <br />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-shueiyang.vercel.app/api?username=ShueiYang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShueiYang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## About Me  ヾ(⌐■_■)ノ♪
