@@ -53,6 +53,7 @@ See my [Homepage](https://shueiyang.vercel.app)
 
 ---
 ### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/ShueiYang/github-readme-stats/pull/2) in [ShueiYang/github-readme-stats](https://github.com/ShueiYang/github-readme-stats)
 2. 🗣 Commented on [#1850](https://github.com/framer/motion/issues/1850#issuecomment-1646886606) in [framer/motion](https://github.com/framer/motion)
