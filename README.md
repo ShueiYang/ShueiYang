@@ -57,7 +57,3 @@ See my [Homepage](https://shueiyang.vercel.app)
 1. 🎉 Merged PR [#2](https://github.com/ShueiYang/github-readme-stats/pull/2) in [ShueiYang/github-readme-stats](https://github.com/ShueiYang/github-readme-stats)
 2. 🗣 Commented on [#1850](https://github.com/framer/motion/issues/1850#issuecomment-1646886606) in [framer/motion](https://github.com/framer/motion)
 3. 🎉 Merged PR [#1](https://github.com/ShueiYang/github-readme-stats/pull/1) in [ShueiYang/github-readme-stats](https://github.com/ShueiYang/github-readme-stats)
-
-
-
-<!--END_SECTION:activity-->
