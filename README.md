@@ -52,6 +52,8 @@ See my [Homepage](https://shueiyang.vercel.app)
 
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShueiYang&theme=tokyonight)](https://git.io/streak-stats)
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
