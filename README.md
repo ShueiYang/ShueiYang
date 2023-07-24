@@ -54,9 +54,9 @@ See my [Homepage](https://shueiyang.vercel.app)
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1850](https://github.com/framer/motion/issues/1850#issuecomment-1646886606) in [framer/motion](https://github.com/framer/motion)
-2. 🎉 Merged PR [#1](https://github.com/ShueiYang/github-readme-stats/pull/1) in [ShueiYang/github-readme-stats](https://github.com/ShueiYang/github-readme-stats)
-3. 🗣 Commented on [#42991](https://github.com/vercel/next.js/issues/42991#issuecomment-1624478529) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🎉 Merged PR [#2](https://github.com/ShueiYang/github-readme-stats/pull/2) in [ShueiYang/github-readme-stats](https://github.com/ShueiYang/github-readme-stats)
+2. 🗣 Commented on [#1850](https://github.com/framer/motion/issues/1850#issuecomment-1646886606) in [framer/motion](https://github.com/framer/motion)
+3. 🎉 Merged PR [#1](https://github.com/ShueiYang/github-readme-stats/pull/1) in [ShueiYang/github-readme-stats](https://github.com/ShueiYang/github-readme-stats)
 
 
 
