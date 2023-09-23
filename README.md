@@ -1,6 +1,6 @@
 ## Hello World !  🌏
 
-Welcome to my profile ! I don't know what to put in here... but I am currently working on my portfolio ^^
+Welcome to my profile ! I don't know what to put in here... but I am currently working as an Intern at [Ekino](https://www.ekino.fr) ^^
 
 <br />
 <br />
